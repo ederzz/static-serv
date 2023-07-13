@@ -1,0 +1,6 @@
+{
+    "name": "custom-miniapp-create-order",
+    "version": "1.0.0",
+    "frame": "page.html",
+    "main": "main.js"
+}
